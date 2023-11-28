@@ -196,10 +196,10 @@ const workExperiences = {
       ]
     },
     {
-      role: "Software Engineer",
+      role: "Software Engineer Intern",
       company: "E-Expedise Technologies",
       companylogo: require("./assets/images/eex.png"),
-      date: "Jan 2015 – Sep 2015",
+      date: "Jan 2019 – Feb 2020",
       // desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       descBullets: [
         "Engaged in the full-stack development of data analysis and visualization tools, utilizing JavaScript, Python, and RESTful API services to enhance user experience and improve overall data insights.",
