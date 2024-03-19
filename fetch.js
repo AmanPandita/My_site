@@ -13,7 +13,7 @@ if (process.env.NODE_ENV !== 'production') {
 // const USE_GITHUB_DATA = process.env.USE_GITHUB_DATA;
 // const MEDIUM_USERNAME = process.env.MEDIUM_USERNAME;
 
-const GITHUB_TOKEN = "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";
+const GITHUB_TOKEN = "<remove this and add your token>";
 const GITHUB_USERNAME = "AmanPandita";
 const USE_GITHUB_DATA = "true";
 const MEDIUM_USERNAME = "panditaaman67";
